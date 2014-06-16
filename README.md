@@ -4,4 +4,6 @@ Global Host to darmowa inicjatywa AIESEC umożliwiająca przyjęcie wolontariusz
 
 Jest to projekt krakowskiego landing page dla projektu Global Host
 
+Adres: http://aiesec.pl/globalhost/
+
 
